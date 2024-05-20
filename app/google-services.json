@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624784004857",
+    "project_id": "jaccl-61ab3",
+    "storage_bucket": "jaccl-61ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624784004857:android:d7ab6be6c0941765a1f428",
+        "android_client_info": {
+          "package_name": "com.example.jaccl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9YiikXe89uv2WRSkyH6SAqR0mjd94MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
